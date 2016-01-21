@@ -1,4 +1,5 @@
 # Diaporama-BBB
-Template du diaporama long format utilisé par le Bruxelles Bondy Blog.
+  Template du diaporama long format utilisé par le Bruxelles Bondy Blog.
 
-Développé par Laurence Dierickx, modifié par Jonathan Hauvel.
+# Created by
+  Laurence Dierickx, web developer ([@ohmyshambles](https://twitter.com/ohmyshambles))
